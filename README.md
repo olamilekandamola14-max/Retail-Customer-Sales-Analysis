@@ -159,3 +159,9 @@ Since income showed virtually no relationship with customer
 satisfaction, the company should focus on improving product quality,
 customer service, and personalized engagement rather than targeting
 customers based primarily on income.
+
+## 📂 Project Files
+
+- 📓 [View Python Analysis Notebook](Retail_Customer_Analysis.ipynb)
+- 📊 [View Project Visualization](visualizations/capstone_dashboard.png)
+- 📄 [View Project Report](report/Retail_Customer_Analysis_Report.pdf)
