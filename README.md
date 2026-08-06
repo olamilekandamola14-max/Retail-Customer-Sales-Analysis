@@ -162,6 +162,6 @@ customers based primarily on income.
 
 ## 📁 Project Files
 
-- 📓 [View Python Analysis Notebook](Retail_Customer_Analysis.ipynb)
+- 📓 [View Python Analysis Notebook](Retail-Customer_Analysis.ipynb)
 - 📊 [View Project Visualization](capstone_dashboard.png)
 - 📄 [View Project Report](Retail_customer_Analysis_Report.pdf)
