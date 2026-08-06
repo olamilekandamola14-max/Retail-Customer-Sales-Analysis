@@ -160,10 +160,8 @@ satisfaction, the company should focus on improving product quality,
 customer service, and personalized engagement rather than targeting
 customers based primarily on income.
 
-## 📂 Project Files
+## 📁 Project Files
 
-- 📊 [View Project Dashboard](Visualization/capstone_dashboard.png)
-- 🐍 [View Python Analysis](python/Retail-Customer%20Analysis.ipynb)
-- 📄 [View Project Report](Report/Retail_customer%20Analysis%20Report.pdf)
-- 📸 [View Analysis Screenshots](screenshots/)
-- 📂 [View Dataset](Data/)
+- 📓 [View Python Analysis Notebook](python/Retail-Customer-Analysis.ipynb)
+- 📊 [View Project Visualization](Visualization/capstone_dashboard.png)
+- 📄 [View Project Report](Report/Retail_customer_Analysis_Report.pdf)
